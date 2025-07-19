@@ -51,6 +51,11 @@ How to Run:
 4. Interact with the progress bar by clicking “Mark as Completed”
 
 OUTPUT:
+<img width="1470" height="837" alt="Image" src="https://github.com/user-attachments/assets/89c60d71-67e6-4fd5-9cb3-1cd171c0e655" />
+<img width="1470" height="836" alt="Image" src="https://github.com/user-attachments/assets/c4e56b4d-47f7-4fc7-a8ea-ef3c5d079723" />
+<img width="1470" height="837" alt="Image" src="https://github.com/user-attachments/assets/5f4a7ee3-cd34-4ba5-abed-235fdf88ae27" />
+<img width="1470" height="836" alt="Image" src="https://github.com/user-attachments/assets/a34ed9be-99fb-4e62-9bfc-31b09ac8d261" />
+
 
 
 
